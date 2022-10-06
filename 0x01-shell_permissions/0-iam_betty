@@ -1,1 +1,1 @@
-sudo -v -u betty
+su- betty
